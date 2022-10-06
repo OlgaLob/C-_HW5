@@ -1,0 +1,15 @@
+C:\Users\пользователь\Desktop\Git_edu\HW5\Ex38\obj\Debug\net6.0\Ex38.csproj.AssemblyReference.cache
+C:\Users\пользователь\Desktop\Git_edu\HW5\Ex38\obj\Debug\net6.0\Ex38.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\пользователь\Desktop\Git_edu\HW5\Ex38\obj\Debug\net6.0\Ex38.AssemblyInfoInputs.cache
+C:\Users\пользователь\Desktop\Git_edu\HW5\Ex38\obj\Debug\net6.0\Ex38.AssemblyInfo.cs
+C:\Users\пользователь\Desktop\Git_edu\HW5\Ex38\obj\Debug\net6.0\Ex38.csproj.CoreCompileInputs.cache
+C:\Users\пользователь\Desktop\Git_edu\HW5\Ex38\bin\Debug\net6.0\Ex38.exe
+C:\Users\пользователь\Desktop\Git_edu\HW5\Ex38\bin\Debug\net6.0\Ex38.deps.json
+C:\Users\пользователь\Desktop\Git_edu\HW5\Ex38\bin\Debug\net6.0\Ex38.runtimeconfig.json
+C:\Users\пользователь\Desktop\Git_edu\HW5\Ex38\bin\Debug\net6.0\Ex38.dll
+C:\Users\пользователь\Desktop\Git_edu\HW5\Ex38\bin\Debug\net6.0\Ex38.pdb
+C:\Users\пользователь\Desktop\Git_edu\HW5\Ex38\obj\Debug\net6.0\Ex38.dll
+C:\Users\пользователь\Desktop\Git_edu\HW5\Ex38\obj\Debug\net6.0\refint\Ex38.dll
+C:\Users\пользователь\Desktop\Git_edu\HW5\Ex38\obj\Debug\net6.0\Ex38.pdb
+C:\Users\пользователь\Desktop\Git_edu\HW5\Ex38\obj\Debug\net6.0\Ex38.genruntimeconfig.cache
+C:\Users\пользователь\Desktop\Git_edu\HW5\Ex38\obj\Debug\net6.0\ref\Ex38.dll
